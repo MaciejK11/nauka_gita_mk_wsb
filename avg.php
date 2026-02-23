@@ -8,7 +8,7 @@ function srednia (a, b)
 
 function wazona (a, b)
 {
-        return (7*a+8*b)/2
+        return (6*a+10*b)/2
 
 }
 
